@@ -1,15 +1,15 @@
 body{
   font-family: verdana;
   background-color: Black;
+  color: white;
   text-align: center;
 }
 
-.discover{
-  color: white;
+h1{
   font-size: 50px;
   font-weight: normal;
 }
-.download{
+#download{
   color: aquamarine;
   font-size: 16px;
 }
